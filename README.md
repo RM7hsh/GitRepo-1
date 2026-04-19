@@ -11,6 +11,6 @@ sudo /opt/labs/server-baseline-check/server-baseline-check.sh
 ```
 
 # Что означает OK/WARN?
-OK означает что сервисы ssh и qemu-guest-agent запущены
+OK означает что сервисы ssh и qemu-guest-agent запущены its not good
 WARN если один из этих сервисов не запущено
 Hello
